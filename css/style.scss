@@ -1,0 +1,24 @@
+---
+---
+
+@import 'bourbon/bourbon';
+@import 'grid_settings';
+@import 'neat/neat';
+@import 'bitters/bitters';
+
+#wrapper {
+  @include outer-container();
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 1em 0;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li:before {
+  content: "-";
+  margin-right: 0.5em;
+}
