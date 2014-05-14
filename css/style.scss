@@ -6,6 +6,10 @@
 @import 'neat/neat';
 @import 'bitters/bitters';
 
+body {
+  background: $base-body-color;
+}
+
 #wrapper {
   @include outer-container();
 }
@@ -14,11 +18,21 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0;
 }
 
+h4 {
+  font-weight: normal;
+}
+
 ul {
   padding: 0;
 }
 
 ul li:before {
   content: "-";
-  margin-right: 0.5em;
+  left: -1em;
+  position: absolute;
+}
+
+ul li {
+  margin: 0 0 0.33333em 1em;
+  position: relative;
 }

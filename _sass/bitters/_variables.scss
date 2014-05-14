@@ -1,7 +1,7 @@
 // Typography
 ///////////////////////////////////////////////////////////////////////////////
 
-$base-font-family: "Inconsolata",monospace;
+$base-font-family: "Inconsolata", "Menlo","Courier New",monospace;
 $header-font-family: $base-font-family;
 
 // Sizes
@@ -23,7 +23,7 @@ $light-yellow: #FFF6BF;
 $light-green: #E6EFC2;
 
 // Body Color
-$base-body-color: white;
+$base-body-color: #efefef;
 
 //  Font Colors
 $base-font-color: $dark-gray;
