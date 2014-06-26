@@ -15,7 +15,7 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
     These lights are awesome, very bright, small enough to fit in your pockets when you lock up your bike. Also, the recharge via USB, no more batteries.
 
-- **Duffel Bag**: REI Duffel
+- **Duffel Bag**: [REI Classic Duffel][duffel]
     
     I hate roller bags, they are awkward to carry, hard to roll on a sidewalk and take up so much space when not in use. Duffel bags are better. Good as a carryon but you need to be careful of the contents if checking.
 
@@ -47,8 +47,8 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
 ## Misc.
 
-- **Ballpoint Pen**: Caran D'ache ballpoint
-- **Notebook**: Muji
+- **Ballpoint Pen**: [Caran d'Ache Ballpoint 849][caran]
+- **Notebook**: Muji [A5][a5] & [A6][a6]
 
 ## iOS Apps
 
@@ -68,5 +68,9 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 [bootlegger]: http://www.boreasgear.com/collections/super-tramp/products/bootlegger-eclipse-black
 [knog-front]: http://www.amazon.com/Knog-Boomer-Rechargeable-Front-Light/dp/B004HNRBCG
 [knog-back]: http://www.amazon.com/Knog-Boomer-Rechargeable-Rear-Light/dp/B004HNUSOE/ref=pd_sim_sg_5
+[duffel]: http://www.rei.com/product/866312/rei-classic-duffel-bag-medium-special-buy
 [sennheiser]: http://www.amazon.com/Sennheiser-HD25-1-II-Closed-Back-Headphones/dp/B000TDZOXG/ref=sr_1_1
 [bose]: http://www.amazon.com/Bose-QuietComfort-Acoustic-Cancelling-Headphones/dp/B00D429Y12/ref=sr_1_1
+[caran]: http://www.carandache.ch/en/214-849-bille-noir-avec-etui.html
+[a5]: http://www.muji.us/store/stationery/notebooks/recycled-paper-notebook-a5.html
+[a6]: http://www.muji.us/store/stationery/notebooks/recycled-paper-note-beige-a6-plain.html
