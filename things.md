@@ -65,6 +65,19 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 - **Camera**: [VSCO Cam](http://vsco.co/vscocam)
 - **Podcasts**: [Castro](http://castro.fm/)
 
+## Coffee
+
+- **Brew Method**: [Kalita Wave 155][kalita155]
+- **Iced Coffee**: [Counter Culture's Japanese Iced Coffee Method][iced]
+- **Grinder**: [Baratza Encore][grinder]
+
+    There are better grinders, this one is sufficient for me for now.
+
+- **Beans to Water Ratio**: 60g Coffee / 1000 mL Water
+- **Roasters**
+    + [Cafe Grumpy][grumpy] New York, NY
+    + [Fourbarrel][fourbarrel] San Francisco, CA
+
 [bootlegger]: http://www.boreasgear.com/collections/super-tramp/products/bootlegger-eclipse-black
 [knog-front]: http://www.amazon.com/Knog-Boomer-Rechargeable-Front-Light/dp/B004HNRBCG
 [knog-back]: http://www.amazon.com/Knog-Boomer-Rechargeable-Rear-Light/dp/B004HNUSOE/ref=pd_sim_sg_5
@@ -74,3 +87,9 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 [caran]: http://www.carandache.ch/en/214-849-bille-noir-avec-etui.html
 [a5]: http://www.muji.us/store/stationery/notebooks/recycled-paper-notebook-a5.html
 [a6]: http://www.muji.us/store/stationery/notebooks/recycled-paper-note-beige-a6-plain.html
+
+[kalita155]: http://www.amazon.com/Kalita-Dripper-person-04021-japan/dp/B004W5L1XY/ref=pd_sbs_k_3
+[iced]: http://vimeo.com/41298356
+[grinder]: https://www.baratza.com/conical-burr-grinders/encore-grinder/
+[grumpy]: http://cafegrumpy.com/shop/
+[fourbarrel]: https://secure.fourbarrelcoffee.com/
