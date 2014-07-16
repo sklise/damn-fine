@@ -5,6 +5,14 @@ title: Damn Fine Things
 
 A collection of things that I think are pretty much the best, damn fine-est things within their category.
 
+- [Gear](#gear)
+- [Clothes](#clothes)
+- [Electronics](#electronics)
+- [iOS Apps](#ios-apps)
+- [Computing](#computing)
+- [Coffee](#coffee)
+- [Misc.](#misc)
+
 ## Gear
 
 - **Backpack**: [Boreas Bootlegger][bootlegger]
@@ -52,7 +60,9 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 [rei-windstill]: http://www.rei.com/product/861262/rei-windstill-jacket-mens
 [patagonia-shelled]: http://www.moosejaw.com/moosejaw/shop/product_Patagonia-Men-s-Shelled-Synchilla-Jacket_10193871_10208_10000001_-1_
 
-## Headphones/Earphones 
+## Electronics
+
+### Headphones/Earphones 
 
 - **On Ear**: [Sennheiser HD25-1 II][sennheiser]
     
@@ -64,15 +74,6 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
 [sennheiser]: http://www.amazon.com/Sennheiser-HD25-1-II-Closed-Back-Headphones/dp/B000TDZOXG/ref=sr_1_1
 [bose]: http://www.amazon.com/Bose-QuietComfort-Acoustic-Cancelling-Headphones/dp/B00D429Y12/ref=sr_1_1
-
-## Misc.
-
-- **Ballpoint Pen**: [Caran d'Ache Ballpoint 849][caran]
-- **Notebook**: Muji [A5][a5] & [A6][a6]
-
-[caran]: http://www.carandache.ch/en/214-849-bille-noir-avec-etui.html
-[a5]: http://www.muji.us/store/stationery/notebooks/recycled-paper-notebook-a5.html
-[a6]: http://www.muji.us/store/stationery/notebooks/recycled-paper-note-beige-a6-plain.html
 
 ## iOS Apps
 
@@ -88,6 +89,23 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
 - **Camera**: [VSCO Cam](http://vsco.co/vscocam)
 - **Podcasts**: [Castro](http://castro.fm/)
+
+## Computing
+
+### Sublime Text
+
+- [Package Manager](https://sublime.wbond.net/)
+- [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing/)
+- [Outerspace Theme](https://github.com/sklise/outerspace)
+- My favorite settings:
+
+        "detect_indentation": true,
+        "draw_centered": true,
+        "draw_white_space": "all",
+        "find_selected_text": "true",
+        "scroll_past_end": true,
+        "translate_tabs_to_spaces": true,
+        "trim_trailing_white_space_on_save": true
 
 ## Coffee
 
@@ -113,3 +131,13 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 [grinder]: https://www.baratza.com/conical-burr-grinders/encore-grinder/
 [grumpy]: http://cafegrumpy.com/shop/
 [fourbarrel]: https://secure.fourbarrelcoffee.com/
+
+
+## Misc.
+
+- **Ballpoint Pen**: [Caran d'Ache Ballpoint 849][caran]
+- **Notebook**: Muji [A5][a5] & [A6][a6]
+
+[caran]: http://www.carandache.ch/en/214-849-bille-noir-avec-etui.html
+[a5]: http://www.muji.us/store/stationery/notebooks/recycled-paper-notebook-a5.html
+[a6]: http://www.muji.us/store/stationery/notebooks/recycled-paper-note-beige-a6-plain.html
