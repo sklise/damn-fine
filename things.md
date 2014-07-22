@@ -23,6 +23,10 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
     These lights are awesome, very bright, small enough to fit in your pockets when you lock up your bike. Also, the recharge via USB, no more batteries.
 
+- **Bike Helmet**: [Uvex i-vo cc][uvex]
+    
+    I tried on a few hard-shell helmets before buying this one and it was by far the most comfortable. The adjustments for the helmet are excellent and comfortable. Compared to my previous helmet the airflow through this is much better making rides in the summer way more enjoyable.
+
 - **Duffel Bag**: [REI Classic Duffel][duffel]
     
     I hate roller bags, they are awkward to carry, hard to roll on a sidewalk and take up so much space when not in use. Duffel bags are better. Good as a carryon but you need to be careful of the contents if checking.
@@ -30,6 +34,7 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 [bootlegger]: http://www.boreasgear.com/collections/super-tramp/products/bootlegger-eclipse-black
 [knog-front]: http://www.amazon.com/Knog-Boomer-Rechargeable-Front-Light/dp/B004HNRBCG
 [knog-back]: http://www.amazon.com/Knog-Boomer-Rechargeable-Rear-Light/dp/B004HNUSOE/ref=pd_sim_sg_5
+[uvex]: http://www.uvex-sports.com/de-en/cycling/cycling-helmets/uvex-i-vo-cc-black-mat/
 [duffel]: http://www.rei.com/product/866312/rei-classic-duffel-bag-medium-special-buy
 
 ## Clothes
