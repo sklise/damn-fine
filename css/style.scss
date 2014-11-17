@@ -12,6 +12,7 @@ body {
 
 #wrapper {
   @include outer-container();
+  padding: 0 1em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -29,6 +30,11 @@ h4 {
 
 ul {
   padding: 0;
+  margin-left: -1em;
+}
+
+li>ul {
+  margin-left: 0;
 }
 
 ul li:before {
@@ -36,6 +42,7 @@ ul li:before {
   left: -1em;
   position: absolute;
 }
+
 
 ul li {
   margin: 0 0 0.33333em 1em;
