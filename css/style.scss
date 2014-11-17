@@ -43,13 +43,11 @@ ul li {
 }
 
 a {
-  color: $base-font-color;
-  border-bottom: 1px solid transparentize($base-link-color,0.6);
-  box-shadow: inset 0 -3px 0 transparentize($base-link-color,0.6);
+  border-bottom: 1px solid $base-link-color;
 
   &:hover {
     color: $base-font-color;
-    border-bottom: 1px solid transparentize($base-accent-color,0.3);
-    box-shadow: inset 0 -3px 0 transparentize($base-accent-color,0.3);
+    border-bottom: 1px solid $yellow;
+    box-shadow: inset 0 -3px 0 $yellow;
   }
 }

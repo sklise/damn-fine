@@ -82,17 +82,26 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
 ## iOS Apps
 
-- **Weather**: [Check the Weather](http://checktheweather.co/)
+- **Weather**: [Weather Line](http://weatherlineapp.com/)
 - **To Do Lists**: [Clear](http://realmacsoftware.com/clear)
 - **New York Subway**: [Kickmap](http://www.kickmap.com/)
 - **Paying friends**: [Square Cash](https://square.com/cash/)
 - **Calculator**: [Pcalc](http://www.pcalc.com/)
 - **Calendar**: [Fantastical](https://flexibits.com/fantastical-iphone)
-- **Notes/Writing**: [Writer Pro](http://writer.pro/)
+- **Notes/Writing**: 
+    
+    - [Writer Pro](http://writer.pro/)
 
-    The custom keyboard and support of Markdown formatting has made Write Pro rise above every other writing app I've tried. And yes I've tried a lot. You can buy Writer Pro for Mac and view/edit your notes via iCloud.
+        The custom keyboard and support of Markdown formatting has made Write Pro rise above every other writing app I've tried. And yes I've tried a lot. You can buy Writer Pro for Mac and view/edit your notes via iCloud.
+    
+    - [Vesper](http://vesperapp.co/)
+    
+        Less features than Writer Pro above, but cheaper and faster. When I really want to write something down really fast, this is what I go with. Also, you can attach an image to each note.
 
 - **Camera**: [VSCO Cam](http://vsco.co/vscocam)
+
+    This app just got so much better. Comes with some very nice filters that you can tweak and also more filters to buy. Also has a social aspect where you can share one photo at a time or make "journal" posts. [Here's my page](http://sklise.vsco.co/).
+    
 - **Podcasts**: [Castro](http://castro.fm/)
 
 ## Computing
@@ -114,14 +123,17 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
 ## Coffee
 
+If you are trying to make better coffee at home the two most important aspects are a good grinder and good beans. Start there. Then get in to pour over methods and ensuring the right temperature of water (93&deg;C).
+
+- **Grinders**: 
+    - **Electric**: [Baratza Encore][grinder] Over $100, under $200. Hitting the sweet spot for most uses. Great for when you make coffee for two or more.
+    - **Hand Powered**: [Porlex Mini][porlex] Suitable only for one cup of coffee at a time. This grinder is beautiful, packs down small but will get you stopped by TSA because it shows up like something mysterious on the x-ray.
+
+
 - **Brew Method**: [Kalita Wave 155][kalita155]
 - **Iced Coffee**: [Counter Culture's Japanese Iced Coffee Method][iced]
 
     The best thing about making iced coffee this way is the flavor. The second best is that you don't need to plan 12 hours in advance to enjoy it. All you need is your pour over device and some ice cubes.
-
-- **Grinder**: [Baratza Encore][grinder]
-
-    There are better grinders, this one is sufficient for me for now.
 
 - **Beans to Water Ratio**: 60g Coffee / 1000 mL Water
 
@@ -131,9 +143,10 @@ A collection of things that I think are pretty much the best, damn fine-est thin
     + [Cafe Grumpy][grumpy] New York, NY
     + [Fourbarrel][fourbarrel] San Francisco, CA
 
-[kalita155]: http://www.amazon.com/Kalita-Dripper-person-04021-japan/dp/B004W5L1XY/ref=pd_sbs_k_3
+[kalita155]: http://www.amazon.com/Kalita-Dripper-person-04021-japan/dp/B004W5L1XY
 [iced]: http://vimeo.com/41298356
 [grinder]: https://www.baratza.com/conical-burr-grinders/encore-grinder/
+[porlex]: http://www.amazon.com/Porlex-Mini-Stainless-Coffee-Grinder/dp/B0044ZA066
 [grumpy]: http://cafegrumpy.com/shop/
 [fourbarrel]: https://secure.fourbarrelcoffee.com/
 
