@@ -15,9 +15,7 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
 ## Gear
 
-- **Backpack**: [Boreas Bootlegger][bootlegger]
-
-    Boreas makes some amazing packs, both for around the city and backpacking. This one in particular is my favorite. First of all it's three packs in one, each bag can be used with the same straps/suspension. And then for those hot days you can set the suspension to bend away from your back leaving just mesh. No more sweaty backs.
+- **Backpack**: _not sure right now_
 
 - **Bike Lights**: Knog USB Rechargeable Lights [Front][knog-front] & [Back][knog-back]
 
@@ -51,10 +49,6 @@ A collection of things that I think are pretty much the best, damn fine-est thin
     
     This shirt is light and comfortable and can be worn for many days at a time. You'll need less of these than your other shirts.
 
-- **Lightweight Jacket**: [REI Windstill Jacket][rei-windstill]
-
-    This super lightweight jacket is nice for those spring and fall days where you're never sure if you'll need a jacket. Leave it in your bag and get it out if it gets windy or a bit rainy.
-
 - **Midweight Jacket**: [Patagonia Shelled Synchilla][patagonia-shelled]
 
     This seems to maybe have been discontinued, I really hope not, it's great. Wind proof and insulated.
@@ -62,7 +56,6 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 [outlier-dungarees]: http://shop.outlier.cc/shop/retail/slim-dungarees.html
 [outlier-shorts]: http://shop.outlier.cc/shop/retail/new-way-shorts.html
 [outlier-t]: http://shop.outlier.cc/shop/retail/ultrafine-merino-tee.html
-[rei-windstill]: http://www.rei.com/product/861262/rei-windstill-jacket-mens
 [patagonia-shelled]: http://www.moosejaw.com/moosejaw/shop/product_Patagonia-Men-s-Shelled-Synchilla-Jacket_10193871_10208_10000001_-1_
 
 ## Electronics
