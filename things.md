@@ -3,7 +3,7 @@ layout: default
 title: Damn Fine Things
 ---
 
-A collection of things that I think are pretty much the best, damn fine-est things within their category.
+A collection of things that I think are pretty much the best, damn fine-est things within their category. This page is something like [The Wirecutter](http://thewirecutter.com/) with less research and more biased opinions.
 
 - [Gear](#gear)
 - [Clothes](#clothes)
@@ -45,9 +45,9 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
     With one pair of Outlier Dungarees and one pair of New Way shorts you'd be set for pretty much the entire year. These suckers wear like pants but don't ever get in your way. Whether walking, hiking, biking or swimming these shorts can do it all.
 
-- **T-Shirt**: [Outlier Ultrafine Merino T-Shirt][outlier-t]
+- **T-Shirt**: [Patagonia Daily Tee][patagonia-t]
     
-    This shirt is light and comfortable and can be worn for many days at a time. You'll need less of these than your other shirts.
+    This shirt is like buying organic eggs for a t-shirt. It's more expensive than a normal cotton t-shirt and at first you're like "I guess," and then once you put it on you realize that yes, this shirt was totally worth the extra dollars. 
 
 - **Midweight Jacket**: [Patagonia Shelled Synchilla][patagonia-shelled]
 
@@ -55,7 +55,7 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
 [outlier-dungarees]: http://shop.outlier.cc/shop/retail/slim-dungarees.html
 [outlier-shorts]: http://shop.outlier.cc/shop/retail/new-way-shorts.html
-[outlier-t]: http://shop.outlier.cc/shop/retail/ultrafine-merino-tee.html
+[patagonia-t]: http://www.patagonia.com/us/product/mens-daily-tee?p=52440-0
 [patagonia-shelled]: http://www.moosejaw.com/moosejaw/shop/product_Patagonia-Men-s-Shelled-Synchilla-Jacket_10193871_10208_10000001_-1_
 
 ## Electronics
@@ -75,44 +75,38 @@ A collection of things that I think are pretty much the best, damn fine-est thin
 
 ## iOS Apps
 
-- **Weather**: [Weather Line](http://weatherlineapp.com/)
+- **Paying friends**: [Square Cash](https://square.com/cash/)
+
+    Square cash is really so much better than basically any service out there. Their app is extremely easy to use, and if you don't want to involve an app, you can send an email and CC cash@square.com and bam, payments.
+
+- **Weather**: [Dark Sky](http://darkskyapp.com/)
+
+    The newest version of Dark Sky is much faster than the old one. And their API is used by many many weather apps. In a quick glance, I can see the low and high for the day as well as the current temperature.
+
 - **To Do Lists**: [Clear](http://realmacsoftware.com/clear)
 - **New York Subway**: [Kickmap](http://www.kickmap.com/)
-- **Paying friends**: [Square Cash](https://square.com/cash/)
 - **Calculator**: [Pcalc](http://www.pcalc.com/)
 - **Calendar**: [Fantastical](https://flexibits.com/fantastical-iphone)
 - **Notes/Writing**: 
-    
-    - [Writer Pro](http://writer.pro/)
 
-        The custom keyboard and support of Markdown formatting has made Write Pro rise above every other writing app I've tried. And yes I've tried a lot. You can buy Writer Pro for Mac and view/edit your notes via iCloud.
-    
     - [Vesper](http://vesperapp.co/)
     
-        Less features than Writer Pro above, but cheaper and faster. When I really want to write something down really fast, this is what I go with. Also, you can attach an image to each note.
+        My new schtick is having as few apps on my phone as is reasonable. And as such Vesper is now listed before Writer Pro. It's simple. Do I need a markdown keyboard when I am taking quick notes on my phone? Do I? Really? No, I don't.
 
+    - [Writer Pro](http://writer.pro/)
+
+        But sometimes, yes, I do want a markdown keyboard and the custom keyboard and support of Markdown formatting has made Write Pro rise above every other writing app I've tried. And yes I've tried a lot. You can buy Writer Pro for Mac and view/edit your notes via iCloud.
+    
 - **Camera**: [VSCO Cam](http://vsco.co/vscocam)
 
     This app just got so much better. Comes with some very nice filters that you can tweak and also more filters to buy. Also has a social aspect where you can share one photo at a time or make "journal" posts. [Here's my page](http://sklise.vsco.co/).
     
 - **Podcasts**: [Castro](http://castro.fm/)
+- **Running**: [Nike Running](http://www.nike.com/us/en_us/c/running/nikeplus/gps-app)
+    
+    Nike Running is exactly what I need from a running app. It tells me my time and pace every mile. And when I've finished a run I get a nice view of where I went and can even keep track of how each run felt.
 
-## Computing
-
-### Sublime Text
-
-- [Package Manager](https://sublime.wbond.net/)
-- [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing/)
-- [Outerspace Theme](https://github.com/sklise/outerspace)
-- My favorite settings:
-
-        "detect_indentation": true,
-        "draw_centered": true,
-        "draw_white_space": "all",
-        "find_selected_text": "true",
-        "scroll_past_end": true,
-        "translate_tabs_to_spaces": true,
-        "trim_trailing_white_space_on_save": true
+    And then in big numbers the app shows me how many miles I've tracked over all time with the app, my overall average pace and then a list of my friends and how much they've ran this month. Totals. I'm not running races, and even if I was, I wouldn't be winning them. This is what I want from a running app: motivation and simple stats.
 
 ## Coffee
 
