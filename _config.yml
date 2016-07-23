@@ -1,6 +1,6 @@
 ---
 title: Damn Fine
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -10,3 +10,4 @@ collections:
     output: true
 markdown: kramdown
 permalink: pretty
+Field name: 
