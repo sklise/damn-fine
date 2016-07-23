@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Damn Fine Things
+layout: default
 ---
 
 A collection of things that I think are pretty much the best, damn fine-est things within their category. This page is something like [The Wirecutter](http://thewirecutter.com/) with less research and more biased opinions.

@@ -1,2 +1,12 @@
+---
+title: Damn Fine
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 markdown: kramdown
 permalink: pretty
