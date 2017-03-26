@@ -1,0 +1,90 @@
+{
+  "name": "sklise/damn-fine",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "damn-fine",
+  "branch": "master",
+  "style": {
+    "name": "Brutalist",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BasicHeader",
+      "article": "article/MarkdownArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+    "heading": {},
+    "typeScale": [
+      48,
+      32,
+      20,
+      18,
+      16,
+      14,
+      12
+    ],
+    "layout": {
+      "maxWidth": 1024,
+      "fluid": true
+    },
+    "colors": {
+      "text": "#333",
+      "background": "#fff",
+      "primary": "#666",
+      "secondary": "#888",
+      "highlight": "#1f80ff",
+      "muted": "#f6f6f6",
+      "border": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/sklise/damn-fine",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "damn-fine",
+      "subhead": null,
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "damn-fine: ",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "sklise",
+          "repo": "damn-fine"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "\n<p>This is sort of a site for things that I want to make but also probably a new zine where each issue is a topic.</p>\n<p>So for instance damn-fine.net/coffee.</p>\n<h2>Wtf does Steve Klise</h2>\n<p>damn-fine.net/picks</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/sklise/damn-fine",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/sklise",
+          "text": "sklise"
+        }
+      ]
+    }
+  ]
+}
